@@ -132,19 +132,84 @@ They can:
 Team Members primarily have access to tasks and workflows relevant to their responsibilities.
 
 ---
-## 📸 Product Screens
 
-### Dashboard
+## 📸 PRYMUS Product Screens
 
-![PRYMUS Dashboard](./images/prymus-dashboard.png)
+### Task Timeline
 
-### Task Management
+The task timeline provides an organisation-wide view of tasks and activities, making it easier to monitor work across teams and users.
 
-![PRYMUS Task Management](./images/prymus-task-management.png)
+![PRYMUS Task Timeline](./prymus%20image%201.png)
 
-### Kanban Board
+### Organisation Analytics
 
-![PRYMUS Kanban Board](./images/prymus-kanban.png)
+The organisation analytics screen provides visibility into operational performance and task-related activity across the organisation.
+
+![PRYMUS Organisation Analytics](./prymus%20image%202.png)
+
+### All Tasks
+
+A central view of all tasks across the organisation, supporting task discovery, monitoring, and management.
+
+![PRYMUS All Tasks](./prymus%20image%203.png)
+
+### Task Management Dashboard
+
+The task management dashboard gives users a consolidated view of tasks, progress, and operational activity.
+
+![PRYMUS Task Management Dashboard](./prymus%20image%204.png)
+
+![PRYMUS Task Management Dashboard](./prymus%20image%205.png)
+
+### Service Agreement
+
+The service agreement interface supports the management and visibility of service agreements within the platform.
+
+![PRYMUS Service Agreement](./prymus%20image%206.jpeg)
+
+![PRYMUS Service Agreement](./prymus%20image%207.jpeg)
+
+### Task Management Print / Export
+
+Users can print or export task management information for reporting, documentation, or offline use.
+
+![PRYMUS Task Management Print Export](./prymus%20image%208.jpeg)
+
+### Document Permissions
+
+The document permissions interface provides control over access to task management documents.
+
+![PRYMUS Document Permissions](./prymus%20image%209.jpeg)
+
+### Task Management Audit Trail
+
+The audit trail provides visibility into actions and changes made within task management.
+
+![PRYMUS Task Management Audit Trail](./prymus%20image%2010.jpeg)
+
+### Document Permissions
+
+A second view of the document permission functionality within task management.
+
+![PRYMUS Document Permissions](./prymus%20image%2011.jpeg)
+
+### Created Workflows
+
+The created workflow listing provides an overview of workflows configured within the platform.
+
+![PRYMUS Created Workflows](./prymus%20image%2012.jpeg)
+
+### Workflow Diagram
+
+The workflow diagram provides a visual representation of how activities and stages move through a configured workflow.
+
+![PRYMUS Workflow Diagram](./prymus%20image%2013.jpeg)
+
+### Workflow Creation
+
+The workflow creation interface allows users to configure and define new workflows.
+
+![PRYMUS Workflow Creation](./prymus%20image%2014.jpeg)
 
 # 🔐 Role-Based Authorization Model
 
