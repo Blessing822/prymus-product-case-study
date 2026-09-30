@@ -132,6 +132,19 @@ They can:
 Team Members primarily have access to tasks and workflows relevant to their responsibilities.
 
 ---
+## 📸 Product Screens
+
+### Dashboard
+
+![PRYMUS Dashboard](./images/prymus-dashboard.png)
+
+### Task Management
+
+![PRYMUS Task Management](./images/prymus-task-management.png)
+
+### Kanban Board
+
+![PRYMUS Kanban Board](./images/prymus-kanban.png)
 
 # 🔐 Role-Based Authorization Model
 
